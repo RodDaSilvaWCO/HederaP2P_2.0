@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "BlazorVideoServerApp": {
+      "commandName": "Project",
+      "commandLineArgs": "53000 9EC5BD201682497F8754846C7DC0B1989EC5BD201682497F8754846C7DC0B19896A6C00811C8C084EA608B3CD2B3406438004100370044004300350031003200420043004300370034003200340044003800300036003200350032003200330032003600430037003200360034004600200020002000200020002000200020002000200020002000200020005F0035005F0054006800650020004C0069006F006E0020004B0069006E0067002E0041006C006900630065002E0063006E007400",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7204;http://localhost:5148"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:58670",
+      "sslPort": 44328
+    }
+  }
+}
