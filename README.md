@@ -19,6 +19,8 @@ The entire demo shown in the video can be reproduce yourself on a Windows 10+ ma
 
 [Please note that the WorldComputer "node" software (WCNode.exe) is designed to be cross-platform and will run on Windows, Mac and Linux.  However, the WorldCOmputer Simulator (WCSim.exe) written for the v1.0 Hackathon submission and extended for this submission will only run on a Windows machine at this time.  Therefore the demo as a whole is currently only reproducible on a Windows machine.] 
 
+I included the entire source code to the WCMediatePlayer.exe (the BlazorVideoServerApp folder) which gets launched by the WCSim tool (MEDIA command) to serve the videos that get played in the demo if anyone is curious.
+
 I would like to once again give a shout out to Jason Fabritz for his awesome Hashgraph .NET SDK product which I used once more (I have used it in the last three Hedera hackathons as well) to integrate UnoSys (which is entirely written in .NET) with the Hedera.  Its an excellent piece of work and Hedera should take a serious look at supporting it and the .NET developer community (6 million strong) more completely.
 
 If you are interested in learning more about UnoSys or the broader World Computer Project that it is apart of, there is more information included whitepapers to be found at www.WorldComputer.org.
